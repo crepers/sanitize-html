@@ -7,7 +7,7 @@ sanitize-html provides a simple HTML sanitizer with a clear API.
 Install the package:
 ```
 npm install sanitize-html
-``
+```
 
 ```
 ❯ node sanitize.js
