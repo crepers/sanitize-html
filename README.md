@@ -9,10 +9,12 @@ Install the package:
 npm install sanitize-html
 ```
 
+Run the app:
 ```
 ❯ node sanitize.js
 ```
 
+Result is:
 ```
 <p>Hello</p>
 <div>world</div>
